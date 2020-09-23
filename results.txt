@@ -1,0 +1,26 @@
+{"message":"the token_id 1 vote will be added to Block 2"}
+{"error":"the token_id 1 already voted"}
+{"message":"the token_id 2 vote will be added to Block 2"}
+{"message":"the token_id 3 vote will be added to Block 2"}
+{"1":1,"2":1,"3":1}
+{}
+{"index":2,"message":"New Block Forged","previous_hash":"7f87e272dfe110e96a9e14dc3c835c8811a3391b71ff4c9ade2b00f2fb892df1","proof":63785,"votes":[{"selection":"Biden","token_id":1},{"selection":"Trump","token_id":2},{"selection":"Biden","token_id":3}]}
+{"Biden":2,"Trump":1}
+{"error":"the token_id 3 already voted"}
+{"message":"the token_id 4 vote will be added to Block 3"}
+{"message":"the token_id 5 vote will be added to Block 3"}
+{"message":"the token_id 6 vote will be added to Block 3"}
+{"message":"New nodes have been added","total_nodes":["127.0.0.1:5001"]}
+{"message":"New nodes have been added","total_nodes":["127.0.0.1:5000"]}
+{"error":"the token_id 3 already voted"}
+{"error":"the token_id 6 already voted"}
+{"message":"the token_id 7 vote will be added to Block 3"}
+{"error":"the token_id 7 already voted"}
+{"message":"the token_id 8 vote will be added to Block 3"}
+{"message":"the token_id 9 vote will be added to Block 3"}
+{"index":3,"message":"New Block Forged","previous_hash":"dea1b5741ed8b225f94196b032eb28d5ff90c3ccac19dfddb104507e982b696e","proof":15023,"votes":[{"selection":"Biden","token_id":4},{"selection":"Biden","token_id":5},{"selection":"Trump","token_id":6},{"selection":"Trump","token_id":7}]}
+{"index":4,"message":"New Block Forged","previous_hash":"b1e92151d97a00cbc620cdc04c409d00e7ab1cee20d5a16cf17cd19c29af8efc","proof":2250,"votes":[{"selection":"Biden","token_id":8},{"selection":"Biden","token_id":9}]}
+{"message":"Our chain was replaced","new_chain":[{"index":1,"previous_hash":"1","proof":100,"timestamp":1600829112.4173272,"votes":[]},{"index":2,"previous_hash":"7f87e272dfe110e96a9e14dc3c835c8811a3391b71ff4c9ade2b00f2fb892df1","proof":63785,"timestamp":1600829117.749363,"votes":[{"selection":"Biden","token_id":1},{"selection":"Trump","token_id":2},{"selection":"Biden","token_id":3}]},{"index":3,"previous_hash":"dea1b5741ed8b225f94196b032eb28d5ff90c3ccac19dfddb104507e982b696e","proof":15023,"timestamp":1600829117.8644311,"votes":[{"selection":"Biden","token_id":4},{"selection":"Biden","token_id":5},{"selection":"Trump","token_id":6},{"selection":"Trump","token_id":7}]},{"index":4,"previous_hash":"b1e92151d97a00cbc620cdc04c409d00e7ab1cee20d5a16cf17cd19c29af8efc","proof":2250,"timestamp":1600829117.8720303,"votes":[{"selection":"Biden","token_id":8},{"selection":"Biden","token_id":9}]}]}
+{"chain":[{"index":1,"previous_hash":"1","proof":100,"timestamp":1600829112.4173272,"votes":[]},{"index":2,"previous_hash":"7f87e272dfe110e96a9e14dc3c835c8811a3391b71ff4c9ade2b00f2fb892df1","proof":63785,"timestamp":1600829117.749363,"votes":[{"selection":"Biden","token_id":1},{"selection":"Trump","token_id":2},{"selection":"Biden","token_id":3}]},{"index":3,"previous_hash":"dea1b5741ed8b225f94196b032eb28d5ff90c3ccac19dfddb104507e982b696e","proof":15023,"timestamp":1600829117.8644311,"votes":[{"selection":"Biden","token_id":4},{"selection":"Biden","token_id":5},{"selection":"Trump","token_id":6},{"selection":"Trump","token_id":7}]},{"index":4,"previous_hash":"b1e92151d97a00cbc620cdc04c409d00e7ab1cee20d5a16cf17cd19c29af8efc","proof":2250,"timestamp":1600829117.8720303,"votes":[{"selection":"Biden","token_id":8},{"selection":"Biden","token_id":9}]}],"message":"Our chain is authoritative"}
+{"Biden":6,"Trump":3}
+{"Biden":6,"Trump":3}
