@@ -81,7 +81,6 @@ class Blockchain:
         for node in self.nodes:
             response = requests.get(f'http://{node}/token_id')
             if "%d" % token_id in response.json().keys():
-                print('%d' % token_id, response.json().keys())
                 return False
         return True
 
